@@ -1,10 +1,10 @@
 # Python Basic to Advanced Course Syllabus
 
-- [ ] Getting Started
-  - [ ] Setting Up your programming environment
-  - [ ] Python on different operating systems
-  - [ ] Troubleshooting installation issues
-  - [ ] Running Python programs from a terminal
+- [x] Getting Started
+  - [x] Setting Up your programming environment
+  - [x] Python on different operating systems
+  - [x] Troubleshooting installation issues
+  - [x] Running Python programs from a terminal
 
 - [ ] Variables and simple data types
   - [ ] Writing our first programme in python
