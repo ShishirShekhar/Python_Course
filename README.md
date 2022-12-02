@@ -121,6 +121,10 @@
       - [ ] If (list)
     - [ ] Using Multiple Lists
   - [ ] Styling your if statements
+  - [ ] Mini Project
+    - [ ] Coin Flip
+    - [ ] Grade
+    - [ ] Magic Balls
   
 - [ ] Dictionaries
   - [ ] A simple dictionary
