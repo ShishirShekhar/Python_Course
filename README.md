@@ -7,34 +7,34 @@
   - [x] Running Python programs from a terminal
 
 - [ ] Variables and simple data types
-  - [ ] Writing our first programme in python
-    - [ ] Print Hello World
-  - [ ] What really happens when you run hello_world.py
-  - [ ] Data types in python
-    - [ ] Integer
-    - [ ] Float
-    - [ ] String
-    - [ ] Boolean
-  - [ ] Variables
-    - [ ] Variable naming rules
-    - [ ] Avoiding name errors when using variables
-    - [ ] Try it by yourself
-    - [ ] Operators
-  - [ ] Strings
-    - [ ] Defining String
-    - [ ] Overcoming Errors
-    - [ ] Changing Case in a string with methods
-    - [ ] Combining or Concatenating strings
-    - [ ] Adding whitespace to strings with tabs or newlines
-    - [ ] “\n”, “\t”
-    - [ ] Striping Whitespace
-    - [ ] rstrip(), lstrip(), strip()
-    - [ ] Try it by yourself
+  - [x] Writing our first programme in python
+    - [x] Print Hello World
+  - [x] What really happens when you run hello_world.py
+  - [x] Data types in python
+    - [x] Integer
+    - [x] Float
+    - [x] String
+    - [x] Boolean
+  - [x] Variables
+    - [x] Variable naming rules
+    - [x] Avoiding name errors when using variables
+    - [x] Try it by yourself
+    - [x] Operators
+  - [x] Strings
+    - [x] Defining String
+    - [x] Overcoming Errors
+    - [x] Changing Case in a string with methods
+    - [x] Combining or Concatenating strings
+    - [x] Adding whitespace to strings with tabs or newlines
+    - [x] “\n”, “\t”
+    - [x] Striping Whitespace
+    - [x] rstrip(), lstrip(), strip()
+    - [x] Try it by yourself
   - [ ] Numbers
     - [ ] Integer Operations
     - [ ] Float Operations
     - [ ] Avoiding Type errors with str() function
-  - [ ] Comments
+  - [x] Comments
   - [ ] The Zen of python
   - [ ] Mini Project
     - [ ] Temperature
