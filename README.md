@@ -15,11 +15,15 @@
     - [x] Float
     - [x] String
     - [x] Boolean
+    - [ ] Complex
   - [x] Variables
     - [x] Variable naming rules
     - [x] Avoiding name errors when using variables
     - [x] Try it by yourself
     - [x] Operators
+      - [x] +, -, *, /
+      - [x] **, //
+      - [x] ^
   - [x] Strings
     - [x] Defining String
     - [x] Overcoming Errors
