@@ -16,6 +16,11 @@
     - [x] String
     - [x] Boolean
     - [ ] Complex
+    - [ ] Sequenced data
+      - [ ] List
+      - [ ] Tuple
+    - [ ] Mapped Data
+      - [ ] Dictionary
   - [x] Variables
     - [x] Variable naming rules
     - [x] Avoiding name errors when using variables
