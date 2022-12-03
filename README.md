@@ -35,6 +35,9 @@
     - [ ] Float Operations
     - [ ] Avoiding Type errors with str() function
   - [x] Comments
+  - [ ] Print
+    - [ ] sep
+    - [ ] end
   - [ ] The Zen of python
   - [ ] Mini Project
     - [ ] Temperature
