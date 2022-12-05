@@ -43,6 +43,7 @@
     - [ ] Integer Operations
     - [ ] Float Operations
     - [ ] Avoiding Type errors with str() function
+    - [ ] fstring
   - [x] Comments
   - [ ] Print
     - [ ] sep
