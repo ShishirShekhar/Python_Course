@@ -6,7 +6,7 @@
   - [x] Troubleshooting installation issues
   - [x] Running Python programs from a terminal
 
-- [ ] Variables and simple data types
+- [x] Variables and simple data types
   - [x] Writing our first programme in python
     - [x] Print Hello World
   - [x] What really happens when you run hello_world.py
@@ -15,12 +15,12 @@
     - [x] Float
     - [x] String
     - [x] Boolean
-    - [ ] Complex
-    - [ ] Sequenced data
-      - [ ] List
-      - [ ] Tuple
-    - [ ] Mapped Data
-      - [ ] Dictionary
+    - [x] Complex
+    - [x] Sequenced data
+      - [x] List
+      - [x] Tuple
+    - [x] Mapped Data
+      - [x] Dictionary
   - [x] Variables
     - [x] Variable naming rules
     - [x] Avoiding name errors when using variables
@@ -39,21 +39,26 @@
     - [x] Striping Whitespace
     - [x] rstrip(), lstrip(), strip()
     - [x] Try it by yourself
-  - [ ] Numbers
-    - [ ] Integer Operations
-    - [ ] Float Operations
-    - [ ] Avoiding Type errors with str() function
-    - [ ] fstring
+  - [x] Numbers
+    - [x] Integer Operations
+    - [x] Float Operations
+    - [x] Avoiding Type errors with str() function
+    - [x] fstring
   - [x] Comments
-  - [ ] Print
-    - [ ] sep
-    - [ ] end
-  - [ ] The Zen of python
-  - [ ] Mini Project
-    - [ ] Temperature
-    - [ ] BMI
-    - [ ] Quadric
-    - [ ] Currency
+  - [x] Type casting
+    - [x] int to str
+    - [x] str to int
+    - [x] int to str
+    - [x] eval
+  - [x] Print
+    - [x] sep
+    - [x] end
+  - [x] The Zen of python
+  - [x] Mini Project
+    - [x] Temperature
+    - [x] BMI
+    - [x] Quadric
+    - [x] Currency
 
 - [ ] Introducing Lists
   - [ ] What is a list?
