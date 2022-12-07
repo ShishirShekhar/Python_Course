@@ -60,27 +60,27 @@
     - [x] Quadric
     - [x] Currency
 
-- [ ] Introducing Lists
-  - [ ] What is a list?
-    - [ ] Accessing elements in a list
-    - [ ] Index position
-    - [ ] Using Individual values from a list
-  - [ ] Changing adding, and removing elements
-    - [ ] Modifying elements in a list
-    - [ ] Adding elements to a list
-      - [ ] appending Elements to the End of a List (append)
-      - [ ] Inserting Elements into a List (insert)
-    - [ ] Removing elements from a list
-      - [ ] removing an Item Using the del Statement
-      - [ ] removing an Item Using the pop() Method
-      - [ ] Popping Items from any Position in a List
-      - [ ] removing an Item by Value
-  - [ ] Organizing a list
-    - [ ] Sorting a List Permanently with the sort() Method
-    - [ ] Sorting a List Temporarily with the sorted() Function
-    - [ ] Printing a List in Reverse Order
-    - [ ] Finding the Length of a List
-    - [ ] Avoiding Index Errors When Working with Lists
+- [x] Introducing Lists
+  - [x] What is a list?
+    - [x] Accessing elements in a list
+    - [x] Index position
+    - [x] Using Individual values from a list
+  - [x] Changing adding, and removing elements
+    - [x] Modifying elements in a list
+    - [x] Adding elements to a list
+      - [x] appending Elements to the End of a List (append)
+      - [x] Inserting Elements into a List (insert)
+    - [x] Removing elements from a list
+      - [x] removing an Item Using the del Statement
+      - [x] removing an Item Using the pop() Method
+      - [x] Popping Items from any Position in a List
+      - [x] removing an Item by Value
+  - [x] Organizing a list
+    - [x] Sorting a List Permanently with the sort() Method
+    - [x] Sorting a List Temporarily with the sorted() Function
+    - [x] Printing a List in Reverse Order
+    - [x] Finding the Length of a List
+    - [x] Avoiding Index Errors When Working with Lists
 
 - [ ] Working with Lists
   - [ ] Looping through the entire list
