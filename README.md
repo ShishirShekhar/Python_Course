@@ -83,24 +83,25 @@
     - [x] Avoiding Index Errors When Working with Lists
 
 - [ ] Working with Lists
-  - [ ] Looping through the entire list
-    - [ ] A Closer Look at Looping
-    - [ ] Doing More Work Within a for Loop
-  - [ ] Avoiding Indentation Errors
-    - [ ] Forgetting to Indent
-    - [ ] Forgetting to Indent Additional Lines
-    - [ ] Indenting Unnecessarily
-    - [ ] Indenting Unnecessarily After the Loop
-    - [ ] Forgetting the Colon
+  - [x] Looping through the entire list
+    - [x] A Closer Look at Looping
+    - [x] Doing More Work Within a for Loop
+  - [x] Avoiding Indentation Errors
+    - [x] Forgetting to Indent
+    - [x] Forgetting to Indent Additional Lines
+    - [x] Indenting Unnecessarily
+    - [x] Indenting Unnecessarily After the Loop
+    - [x] Forgetting the Colon
   - [ ] Making Numerical Lists
     - [ ] Using the range() Function
-    - [ ] Using range( ) to Make a List of Numbers
+    - [ ] Using range() to Make a List of Numbers
     - [ ] Simple Statistics with a List of Numbers
     - [ ] List Comprehensions
   - [ ] Working with part of a List
     - [ ] Slicing a List
     - [ ] Looping Through a Slice
     - [ ] Copying a List
+    - [ ] String list
   - [ ] Tuples
     - [ ] Defining a Tuple
     - [ ] Looping Through All Values in a Tuple
