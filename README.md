@@ -92,11 +92,11 @@
     - [x] Indenting Unnecessarily
     - [x] Indenting Unnecessarily After the Loop
     - [x] Forgetting the Colon
-  - [ ] Making Numerical Lists
-    - [ ] Using the range() Function
-    - [ ] Using range() to Make a List of Numbers
-    - [ ] Simple Statistics with a List of Numbers
-    - [ ] List Comprehensions
+  - [x] Making Numerical Lists
+    - [x] Using the range() Function
+    - [x] Using range() to Make a List of Numbers
+    - [x] Simple Statistics with a List of Numbers
+    - [x] List Comprehensions
   - [ ] Working with part of a List
     - [ ] Slicing a List
     - [ ] Looping Through a Slice
