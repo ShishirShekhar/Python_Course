@@ -97,11 +97,11 @@
     - [x] Using range() to Make a List of Numbers
     - [x] Simple Statistics with a List of Numbers
     - [x] List Comprehensions
-  - [ ] Working with part of a List
-    - [ ] Slicing a List
-    - [ ] Looping Through a Slice
-    - [ ] Copying a List
-    - [ ] String list
+  - [x] Working with part of a List
+    - [x] Slicing a List
+    - [x] Looping Through a Slice
+    - [x] Copying a List
+    - [x] String list
   - [ ] Tuples
     - [ ] Defining a Tuple
     - [ ] Looping Through All Values in a Tuple
