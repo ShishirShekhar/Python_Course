@@ -82,7 +82,7 @@
     - [x] Finding the Length of a List
     - [x] Avoiding Index Errors When Working with Lists
 
-- [ ] Working with Lists
+- [x] Working with Lists
   - [x] Looping through the entire list
     - [x] A Closer Look at Looping
     - [x] Doing More Work Within a for Loop
@@ -102,17 +102,17 @@
     - [x] Looping Through a Slice
     - [x] Copying a List
     - [x] String list
-  - [ ] Tuples
-    - [ ] Defining a Tuple
-    - [ ] Looping Through All Values in a Tuple
-    - [ ] Writing over a Tuple
-  - [ ] Styling your code
-    - [ ] The Style Guide
-    - [ ] Indentation
-    - [ ] Line Length
-    - [ ] Blank Lines
-    - [ ] Other Style Guidelines
-    - [ ] Try by yourself (<https://python.org/dev/peps/pep-0008/>)
+  - [x] Tuples
+    - [x] Defining a Tuple
+    - [x] Looping Through All Values in a Tuple
+    - [x] Writing over a Tuple
+  - [x] Styling your code
+    - [x] The Style Guide
+    - [x] Indentation
+    - [x] Line Length
+    - [x] Blank Lines
+    - [x] Other Style Guidelines
+    - [x] Try by yourself (<https://python.org/dev/peps/pep-0008/>)
   
 - [ ] If Statements
   - [ ] A simple example
