@@ -115,31 +115,31 @@
     - [x] Try by yourself (<https://python.org/dev/peps/pep-0008/>)
   
 - [ ] If Statements
-  - [ ] A simple example
-  - [ ] Conditional Tests
-    - [ ] Checking for Equality
-    - [ ] Ignoring Case When Checking for Equality
-    - [ ] Checking for Inequality
-    - [ ] Numerical Comparisons
-    - [ ] Checking Multiple Conditions
-      - [ ] Using and to Check Multiple Conditions
-      - [ ] Using or to Check Multiple Conditions
-    - [ ] Checking Whether a Value Is in a List
-    - [ ] Checking Whether a Value Is Not in a List
-    - [ ] Boolean Expressions
-  - [ ] If statements
-    - [ ] Simple if Statements
-    - [ ] if-else Statements
-    - [ ] The if-elif-else Chain
-    - [ ] Using Multiple elif Blocks
-    - [ ] Omitting the else Block
-    - [ ] Testing Multiple Conditions
-  - [ ] Using if statements with lists
-    - [ ] Checking for Special Items
-    - [ ] Checking That a List Is Not Empty
-      - [ ] If (list)
-    - [ ] Using Multiple Lists
-  - [ ] Styling your if statements
+  - [x] A simple example
+  - [x] Conditional Tests
+    - [x] Checking for Equality
+    - [x] Ignoring Case When Checking for Equality
+    - [x] Checking for Inequality
+    - [x] Numerical Comparisons
+    - [x] Checking Multiple Conditions
+      - [x] Using and to Check Multiple Conditions
+      - [x] Using or to Check Multiple Conditions
+    - [x] Checking Whether a Value Is in a List
+    - [x] Checking Whether a Value Is Not in a List
+    - [x] Boolean Expressions
+  - [x] If statements
+    - [x] Simple if Statements
+    - [x] if-else Statements
+    - [x] The if-elif-else Chain
+    - [x] Using Multiple elif Blocks
+    - [x] Omitting the else Block
+    - [x] Testing Multiple Conditions
+  - [x] Using if statements with lists
+    - [x] Checking for Special Items
+    - [x] Checking That a List Is Not Empty
+      - [x] If (list)
+    - [x] Using Multiple Lists
+  - [x] Styling your if statements
   - [ ] Mini Project
     - [ ] Coin Flip
     - [ ] Grade
