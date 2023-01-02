@@ -141,8 +141,9 @@
     - [x] Using Multiple Lists
   - [x] Styling your if statements
   - [ ] Mini Project
-    - [ ] Coin Flip
-    - [ ] Grade
+    - [x] Coin Flip
+    - [x] Toss game
+    - [x] Grade
     - [ ] Magic Balls
   
 - [ ] Dictionaries
