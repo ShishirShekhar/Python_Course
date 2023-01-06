@@ -53,23 +53,22 @@
       - [x] title
     - [x] Striping Whitespace or any value
       - [x] rstrip(), lstrip(), strip()
-    - [ ] Modify
-      - [ ] replace
-      - [ ] center
-    - [ ] Check values
-      - [ ] count
+    - [x] Modify
+      - [x] replace
+      - [x] center
+    - [x] Check values
+      - [x] count
       - [x] ends with
       - [x] starts with
-      - [ ] find
-      - [ ] index
+      - [x] find
+      - [x] index
       - [x] is alphanumeric
       - [x] is alphabet
       - [x] is digit
-    - [ ] Checking cases
-      - [ ] is lower
-      - [ ] is upper
-      - [ ] is title
-      - [ ] is capitalize
+    - [x] Checking cases
+      - [x] is lower
+      - [x] is upper
+      - [x] is title
 
 - [x] Numbers
   - [x] Integer Operations
@@ -90,7 +89,7 @@
     - [x] Quadric
     - [x] Currency
 
-- [ ] If Statements
+- [x] If Statements
   - [x] A simple example
   - [x] Conditional Tests
     - [x] Checking for Equality
@@ -114,9 +113,8 @@
   - [x] Mini Project
     - [x] Coin Flip (random module)
     - [x] Grade
-    - [ ] Calculator
-    - [ ] Wisher (time module)
-    - [ ] Rock, Paper, Scissor
+    - [x] Calculator
+    - [x] Wisher (time module)
 
 - [ ] Match Cases
   - [ ] Simple example
@@ -175,7 +173,7 @@
   - [x] Writing over a Tuple
   - [x] Operations on tuple
 
-- [ ] For loop
+- [x] For loop
   - [x] Simple for loop
   - [x] For loop with string
   - [x] For loop with list
@@ -194,8 +192,8 @@
       - [x] Simple Statistics with a List of Numbers
       - [x] List Comprehensions
     - [x] Enumerate
-  - [ ] Mini project
-    - [ ] Magic Balls
+  - [x] Mini project
+    - [x] Magic Balls
 
 - [ ] While loops
   - [ ] Introducing while loops
@@ -207,6 +205,8 @@
     - [ ] Avoiding Infinite Loops
   - [ ] Using a while
     - [ ] Moving Items from One List to Another
+  - [ ] Mini Project
+    - [ ] Rock, Paper, Scissor
   
 - [ ] Dictionaries
   - [ ] A simple dictionary
