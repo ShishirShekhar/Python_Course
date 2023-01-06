@@ -19,6 +19,7 @@
     - [x] Sequenced data
       - [x] List
       - [x] Tuple
+      - [x] Set
     - [x] Mapped Data
       - [x] Dictionary
   - [x] Variables
@@ -27,29 +28,58 @@
     - [x] Try it by yourself
     - [x] Operators
       - [x] +, -, *, /
-      - [x] **, //
+      - [x] **, //, %
       - [x] ^
-  - [x] Strings
-    - [x] Defining String
-    - [x] Overcoming Errors
-    - [x] Changing Case in a string with methods
-    - [x] Combining or Concatenating strings
-    - [x] Adding whitespace to strings with tabs or newlines
-    - [x] “\n”, “\t”
-    - [x] Striping Whitespace
-    - [x] rstrip(), lstrip(), strip()
-    - [x] Try it by yourself
-  - [x] Numbers
-    - [x] Integer Operations
-    - [x] Float Operations
-    - [x] Avoiding Type errors with str() function
-    - [x] fstring
+
+- [x] User input
+  - [x] How the input() function works
+    - [x] Writing Clear Prompts
+    - [x] Using int() to Accept Numerical Input
+    - [x] Using eval()
+
+- [x] Strings
+  - [x] Defining String
+  - [x] Overcoming Errors
+  - [x] Combining or Concatenating strings
+  - [x] Adding whitespace to strings with tabs or newlines
+  - [x] “\n”, “\t”
+  - [x] length of string
+  - [x] String slicing
+  - [x] String methods
+    - [x] Changing Case
+      - [x] upper
+      - [x] lower
+      - [x] capitalize
+      - [x] title
+    - [x] Striping Whitespace or any value
+      - [x] rstrip(), lstrip(), strip()
+    - [ ] Modify
+      - [ ] replace
+      - [ ] center
+    - [ ] Check values
+      - [ ] count
+      - [x] ends with
+      - [x] starts with
+      - [ ] find
+      - [ ] index
+      - [x] is alphanumeric
+      - [x] is alphabet
+      - [x] is digit
+    - [ ] Checking cases
+      - [ ] is lower
+      - [ ] is upper
+      - [ ] is title
+      - [ ] is capitalize
+
+- [x] Numbers
+  - [x] Integer Operations
+  - [x] Float Operations
+  - [x] Avoiding Type errors with str() function
+
+- [x] Something more
+  - [x] fstring
   - [x] Comments
   - [x] Type casting
-    - [x] int to str
-    - [x] str to int
-    - [x] int to str
-    - [x] eval
   - [x] Print
     - [x] sep
     - [x] end
@@ -60,60 +90,6 @@
     - [x] Quadric
     - [x] Currency
 
-- [x] Introducing Lists
-  - [x] What is a list?
-    - [x] Accessing elements in a list
-    - [x] Index position
-    - [x] Using Individual values from a list
-  - [x] Changing adding, and removing elements
-    - [x] Modifying elements in a list
-    - [x] Adding elements to a list
-      - [x] appending Elements to the End of a List (append)
-      - [x] Inserting Elements into a List (insert)
-    - [x] Removing elements from a list
-      - [x] removing an Item Using the del Statement
-      - [x] removing an Item Using the pop() Method
-      - [x] Popping Items from any Position in a List
-      - [x] removing an Item by Value
-  - [x] Organizing a list
-    - [x] Sorting a List Permanently with the sort() Method
-    - [x] Sorting a List Temporarily with the sorted() Function
-    - [x] Printing a List in Reverse Order
-    - [x] Finding the Length of a List
-    - [x] Avoiding Index Errors When Working with Lists
-
-- [x] Working with Lists
-  - [x] Looping through the entire list
-    - [x] A Closer Look at Looping
-    - [x] Doing More Work Within a for Loop
-  - [x] Avoiding Indentation Errors
-    - [x] Forgetting to Indent
-    - [x] Forgetting to Indent Additional Lines
-    - [x] Indenting Unnecessarily
-    - [x] Indenting Unnecessarily After the Loop
-    - [x] Forgetting the Colon
-  - [x] Making Numerical Lists
-    - [x] Using the range() Function
-    - [x] Using range() to Make a List of Numbers
-    - [x] Simple Statistics with a List of Numbers
-    - [x] List Comprehensions
-  - [x] Working with part of a List
-    - [x] Slicing a List
-    - [x] Looping Through a Slice
-    - [x] Copying a List
-    - [x] String list
-  - [x] Tuples
-    - [x] Defining a Tuple
-    - [x] Looping Through All Values in a Tuple
-    - [x] Writing over a Tuple
-  - [x] Styling your code
-    - [x] The Style Guide
-    - [x] Indentation
-    - [x] Line Length
-    - [x] Blank Lines
-    - [x] Other Style Guidelines
-    - [x] Try by yourself (<https://python.org/dev/peps/pep-0008/>)
-  
 - [ ] If Statements
   - [x] A simple example
   - [x] Conditional Tests
@@ -134,17 +110,103 @@
     - [x] Using Multiple elif Blocks
     - [x] Omitting the else Block
     - [x] Testing Multiple Conditions
+  - [x] Styling your if statements
+  - [x] Mini Project
+    - [x] Coin Flip (random module)
+    - [x] Grade
+    - [ ] Calculator
+    - [ ] Wisher (time module)
+    - [ ] Rock, Paper, Scissor
+
+- [ ] Match Cases
+  - [ ] Simple example
+  - [ ] Default case
+  - [ ] Default case with if
+  - [ ] Mini Project
+    - [ ] Calculator
+
+- [x] Introducing Lists
+  - [x] What is a list?
+    - [x] Accessing elements in a list
+    - [x] Index position
+    - [x] Using Individual values from a list
+  - [x] Changing adding, and removing elements
+    - [x] Modifying elements in a list
+    - [x] Adding elements to a list
+      - [x] appending Elements to the End of a List (append)
+      - [x] Inserting Elements into a List (insert)
+    - [x] Extending list
+    - [x] Removing elements from a list
+      - [x] removing an Item Using the del Statement
+      - [x] removing an Item Using the pop() Method
+      - [x] Popping Items from any Position in a List
+      - [x] removing an Item by Value
+  - [x] Check for values
+    - [x] index
+    - [x] count
+  - [x] Organizing a list
+    - [x] Sorting a List Permanently with the sort() Method
+    - [x] Sorting a List Temporarily with the sorted() Function
+    - [x] Printing a List in Reverse Order
+    - [x] Finding the Length of a List
+    - [x] Avoiding Index Errors When Working with Lists
+
+- [x] Working with Lists
+  - [x] Working with part of a List
+    - [x] Slicing a List
+    - [x] Copying a List
+    - [x] String as a list
   - [x] Using if statements with lists
     - [x] Checking for Special Items
     - [x] Checking That a List Is Not Empty
       - [x] If (list)
     - [x] Using Multiple Lists
-  - [x] Styling your if statements
-  - [ ] Mini Project
-    - [x] Coin Flip
-    - [x] Toss game
-    - [x] Grade
+  - [x] Styling your code
+    - [x] The Style Guide
+    - [x] Indentation
+    - [x] Line Length
+    - [x] Blank Lines
+    - [x] Other Style Guidelines
+    - [x] Try by yourself (<https://python.org/dev/peps/pep-0008/>)
+
+- [x] Tuples
+  - [x] Defining a Tuple
+  - [x] Looping Through All Values in a Tuple
+  - [x] Writing over a Tuple
+  - [x] Operations on tuple
+
+- [ ] For loop
+  - [x] Simple for loop
+  - [x] For loop with string
+  - [x] For loop with list
+    - [x] Looping through the entire list
+      - [x] A Closer Look at Looping
+      - [x] Doing More Work Within a for Loop
+    - [x] Avoiding Indentation Errors
+      - [x] Forgetting to Indent
+      - [x] Forgetting to Indent Additional Lines
+      - [x] Indenting Unnecessarily
+      - [x] Indenting Unnecessarily After the Loop
+      - [x] Forgetting the Colon
+    - [x] Making Numerical Lists
+      - [x] Using the range() Function
+      - [x] Using range() to Make a List of Numbers
+      - [x] Simple Statistics with a List of Numbers
+      - [x] List Comprehensions
+    - [x] Enumerate
+  - [ ] Mini project
     - [ ] Magic Balls
+
+- [ ] While loops
+  - [ ] Introducing while loops
+    - [ ] The while Loop in Action
+    - [ ] Letting the User Choose When to Quit
+    - [ ] Using a Flag
+    - [ ] Using break to Exit a Loop
+    - [ ] Using continue in a Loop
+    - [ ] Avoiding Infinite Loops
+  - [ ] Using a while
+    - [ ] Moving Items from One List to Another
   
 - [ ] Dictionaries
   - [ ] A simple dictionary
@@ -164,24 +226,10 @@
     - [ ] A List of Dictionaries
     - [ ] A List in a Dictionary
     - [ ] A List in a Dictionary
-
-- [ ] User input and while loops
-  - [ ] How the input() function works
-    - [ ] Writing Clear Prompts
-    - [ ] Using int() to Accept Numerical Input
-    - [ ] Using eval()
-    - [ ] The Modulo Operator
-  - [ ] Introducing while loops
-    - [ ] The while Loop in Action
-    - [ ] Letting the User Choose When to Quit
-    - [ ] Using a Flag
-    - [ ] Using break to Exit a Loop
-    - [ ] Using continue in a Loop
-    - [ ] Avoiding Infinite Loops
-  - [ ] Using a while loop with lists and dictionaries
-    - [ ] Moving Items from One List to Another
-    - [ ] Moving Items from One List to Another
+  - [ ] Using a while
     - [ ] Filling a Dictionary with User Input
+  - [ ] Mini project
+    - [ ] KBC
 
 - [ ] Functions
   - [ ] Defining a function
@@ -212,6 +260,7 @@
     - [ ] Using as to Give a Function an Alias
     - [ ] Using as to Give a Module an Alias
     - [ ] Using as to Give a Module an Alias
+  - [ ] Doc string
   - [ ] Styling functions
   
 - [ ] Classes
