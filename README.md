@@ -116,12 +116,12 @@
     - [x] Calculator
     - [x] Wisher (time module)
 
-- [ ] Match Cases
-  - [ ] Simple example
-  - [ ] Default case
-  - [ ] Default case with if
-  - [ ] Mini Project
-    - [ ] Calculator
+- [x] Match Cases
+  - [x] Simple example
+  - [x] Default case
+  - [x] Default case with if
+  - [x] Mini Project
+    - [x] Calculator
 
 - [x] Introducing Lists
   - [x] What is a list?
@@ -197,14 +197,14 @@
 
 - [ ] While loops
   - [ ] Introducing while loops
-    - [ ] The while Loop in Action
-    - [ ] Letting the User Choose When to Quit
-    - [ ] Using a Flag
-    - [ ] Using break to Exit a Loop
+    - [x] The while Loop in Action
+    - [x] Letting the User Choose When to Quit
+    - [x] Using a Flag
+    - [x] Using break to Exit a Loop
     - [ ] Using continue in a Loop
-    - [ ] Avoiding Infinite Loops
-  - [ ] Using a while
-    - [ ] Moving Items from One List to Another
+    - [x] Avoiding Infinite Loops
+  - [x] Using a while
+    - [x] Moving Items from One List to Another
   - [ ] Mini Project
     - [ ] Rock, Paper, Scissor
   
