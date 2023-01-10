@@ -196,12 +196,12 @@
     - [x] Magic Balls
 
 - [ ] While loops
-  - [ ] Introducing while loops
+  - [x] Introducing while loops
     - [x] The while Loop in Action
     - [x] Letting the User Choose When to Quit
     - [x] Using a Flag
     - [x] Using break to Exit a Loop
-    - [ ] Using continue in a Loop
+    - [x] Using continue in a Loop
     - [x] Avoiding Infinite Loops
   - [x] Using a while
     - [x] Moving Items from One List to Another
