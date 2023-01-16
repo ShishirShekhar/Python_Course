@@ -195,7 +195,7 @@
   - [x] Mini project
     - [x] Magic Balls
 
-- [ ] While loops
+- [x] While loops
   - [x] Introducing while loops
     - [x] The while Loop in Action
     - [x] Letting the User Choose When to Quit
@@ -205,8 +205,8 @@
     - [x] Avoiding Infinite Loops
   - [x] Using a while
     - [x] Moving Items from One List to Another
-  - [ ] Mini Project
-    - [ ] Rock, Paper, Scissor
+  - [x] Mini Project
+    - [x] Rock, Paper, Scissor
   
 - [ ] Dictionaries
   - [ ] A simple dictionary
