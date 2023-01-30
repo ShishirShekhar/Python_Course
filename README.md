@@ -209,25 +209,25 @@
     - [x] Rock, Paper, Scissor
   
 - [ ] Dictionaries
-  - [ ] A simple dictionary
-  - [ ] Working with Dictionaries
-    - [ ] Accessing Values in a Dictionary
-    - [ ] Adding New Key-Value Pairs
-    - [ ] Starting with an Empty Dictionary
-    - [ ] Modifying Values in a Dictionary
-    - [ ] Removing Key-Value Pairs
-    - [ ] A Dictionary of Similar Objects
-  - [ ] Looping through a Dictionary
-    - [ ] Looping Through All Key-Value Pairs
-    - [ ] Looping Through All the Keys in a Dictionary
-    - [ ] Looping Through a Dictionary’s Keys in Order
-    - [ ] Looping Through All Values in a Dictionary
-  - [ ] Nesting
-    - [ ] A List of Dictionaries
-    - [ ] A List in a Dictionary
-    - [ ] A List in a Dictionary
-  - [ ] Using a while
-    - [ ] Filling a Dictionary with User Input
+  - [x] A simple dictionary
+  - [x] Working with Dictionaries
+    - [x] Accessing Values in a Dictionary
+    - [x] Adding New Key-Value Pairs
+    - [x] Starting with an Empty Dictionary
+    - [x] Modifying Values in a Dictionary
+    - [x] Removing Key-Value Pairs
+    - [x] A Dictionary of Similar Objects
+  - [x] Looping through a Dictionary
+    - [x] Looping Through All Key-Value Pairs
+    - [x] Looping Through All the Keys in a Dictionary
+    - [x] Looping Through a Dictionary’s Keys in Order
+    - [x] Looping Through All Values in a Dictionary
+  - [x] Nesting
+    - [x] A List of Dictionaries
+    - [x] A List in a Dictionary
+    - [x] A Dictionary in a Dictionary
+  - [x] Using a while
+    - [x] Filling a Dictionary with User Input
   - [ ] Mini project
     - [ ] KBC
 
