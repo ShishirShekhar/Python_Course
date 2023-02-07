@@ -208,7 +208,7 @@
   - [x] Mini Project
     - [x] Rock, Paper, Scissor
   
-- [ ] Dictionaries
+- [x] Dictionaries
   - [x] A simple dictionary
   - [x] Working with Dictionaries
     - [x] Accessing Values in a Dictionary
@@ -228,8 +228,8 @@
     - [x] A Dictionary in a Dictionary
   - [x] Using a while
     - [x] Filling a Dictionary with User Input
-  - [ ] Mini project
-    - [ ] KBC
+  - [x] Mini project
+    - [x] KBC
 
 - [ ] Functions
   - [ ] Defining a function
